@@ -1,0 +1,10 @@
+{
+  "extends": "semistandard",
+  "parserOptions": {
+    "ecmaVersion": 5,
+    "sourceType": "script"
+  },
+  "rules": {
+    "strict": ["error", "global"]
+  }
+}
